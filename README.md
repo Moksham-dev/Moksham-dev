@@ -30,7 +30,7 @@ As part of my computer graphics coursework, I developed a complete rendering eng
 * **Key Learnings:** Matrix transformations, Shader programming (GLSL), and Memory management.
 * **Outcome:** Successfully implemented Shadow Mapping, Normal Mapping, and Instance Rendering in a modular codebase.
 
-[**Check out the Source Code**](LINK_TO_YOUR_OPENGL_REPO_HERE)
+[**Check out the Source Code**](https://github.com/Moksham-dev/OpenGL-Classroom-Simulation.git)
 
 ---
 
